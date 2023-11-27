@@ -351,7 +351,7 @@ button:hover {
 @media screen and (max-width: 768px) {
 #menu {
         width: 50%;
-        left: 100px;
+        left: -250px;
     }
 #menu li {
         text-align: left;
